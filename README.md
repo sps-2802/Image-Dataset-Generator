@@ -1,2 +1,2 @@
-Image Dataset Generator
-BY ($P)git
+Image Dataset Generator<br>
+BY ($P)
